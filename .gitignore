@@ -1,0 +1,19 @@
+# Local environment
+.venv/
+.env
+__pycache__/
+
+# Temporary test directories
+ltv_checker_*/
+ltv_e2e_*/
+combined_report_*/
+
+# Output and results and certs
+output/
+certs/
+*.pdf
+*.pfx
+
+# IDE files
+.vscode/
+.idea/
